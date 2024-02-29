@@ -17,14 +17,28 @@ You are required to help the manager to predict the right group of the new custo
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-
 ### STEP 1:
-Write your own steps
-
+Import the necessary packages and modules
 ### STEP 2:
-
+Load and read the dataset
 ### STEP 3:
-
+Pre-process and clean the dataset
+### STEP 4:
+Encode categorical value into numerical values using ordinal/label/one hot encoders
+### STEP 5:
+Visualize the data in different plots using seaborn
+### STEP 6:
+Normalize the values and split them for x and y
+### STEP 7:
+Build the deep learning model with appropriate layers and depth
+### STEP 8:
+Analyze the model using different metrics
+### STEP 9:
+Plot a graph for Training Loss, Validation Loss vs Iteration and for Accuracy, Validation Accuracy vs Iteration
+### STEP 10:
+Save the model using pickle
+### STEP 11:
+Using the DL model predict some random inputs
 
 ## PROGRAM
 
